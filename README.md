@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arkalibaig
 - 👀 I’m interested in coding and programing
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm looking to collaborate on Python projects focused on data sciences and machine learning.
 - 📫 How to reach me through my gmail (arkalibaig@gmail.com)
 - ⚡ Fun fact: I'm also into photography and bikes.
 
