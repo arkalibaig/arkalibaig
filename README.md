@@ -11,7 +11,7 @@
 Self-taught machine learning developer focused on building practical, end-to-end AI systems.
 I work primarily with Python and modern ML frameworks, handling everything from data preprocessing and model training to experimentation and deployment.
 
-I learn by building, breaking, and refining real projects—constantly improving model performance and understanding systems from the ground up.
+I learn by building, breaking, and refining real projects constantly improving model performance and understanding systems from the ground up.
 
 <br/>
 
