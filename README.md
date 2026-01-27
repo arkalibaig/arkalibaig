@@ -30,8 +30,10 @@ Always exploring new ways to optimize models and enhance data-driven decision-ma
 <br/>
 
 ### 🤝 Let's Collaborate
-[![Gmail](https://img.shields.io/badge/Email-arkalibaig%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkalibaig@gmail.com)
+<a href="mailto:arkalibaig@gmail.com">
+  <img src="https://img.shields.io/badge/email-arkalibaig%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ---
-<img src="https://komarev.com/ghpvc/?username=arkalibaig&label=PROFILE+VIEWS&color=00d4ff&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=arkalibaig&label=profile+views&color=00d4ff&style=flat" />
 </div>
