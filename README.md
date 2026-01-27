@@ -1,44 +1,36 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=250&section=header&text=Arkali%20Baig&fontSize=80&fontAlignY=35&desc=BS-AI%20Student%20%7C%20Machine%20Learning%20%7C%20Python&descAlignY=55&descAlign=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13,15,30&height=250&section=header&text=Arkali%20Baig&fontSize=80&fontAlignY=35&desc=AI%20Development%20%7C%20Machine%20Learning%20%7C%20Python%20Expertise&descAlignY=55&descAlign=50&animation=fadeIn)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Arkali!+👋;Pursuing+BS+in+Artificial+Intelligence...;Building+models+with+Python;I+shoot+photos+📸+and+ride+bikes+🏍️&font=Fira%20Code&center=true&width=500&height=50&color=33ff00&vCenter=true&size=25" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Specializing+in+AI+and+Automation;Building+Intelligent+Systems;Exploring+Neural+Networks;Photography+ Enthusiast+📸;Bike+Rider+🏍️&font=Fira+Code&center=true&width=500&height=50&color=00d4ff&vCenter=true&size=24" />
 </a>
 
 <br/>
 
-I am an undergraduate student majoring in **Artificial Intelligence**. <br/>
-My journey involves training models, understanding algorithms, and learning how machines "think." <br/>
-I'm currently sharpening my skills in **Python** and **Data Analysis**.
+**Bridging the gap between raw data and intelligent automation.** <br/>
+Focused on building scalable solutions using **Python** and advanced **Machine Learning** frameworks. <br/> 
+Always exploring new ways to optimize models and enhance data-driven decision making.
 
 <br/>
 
-### 🧠  The Lab
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+### ⚡ Core Technologies
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<br/>
 
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=arkalibaig&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkalibaig&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph"  />
+### 📊 Performance & Insights
+<img src="https://github-readme-stats.vercel.app/api?username=arkalibaig&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkalibaig&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
 <br/><br/>
 
-### 🤝 Let's Connect
-<a href="mailto:arkalibaig@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+### 📫 Get In Touch
+[![Gmail](https://img.shields.io/badge/Email-arkalibaig%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkalibaig@gmail.com)
 
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=arkalibaig&style=flat-square&color=blueviolet" alt="Profile Views"/>
-
+---
+<img src="https://komarev.com/ghpvc/?username=arkalibaig&label=PROFILE+VIEWS&color=00d4ff&style=flat" />
 </div>
