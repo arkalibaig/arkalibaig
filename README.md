@@ -16,13 +16,15 @@ Always exploring new ways to optimize models and enhance data-driven decision-ma
 <br/>
 
 ### 🛠️ The Stack
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,git,cpp&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,git,cpp&theme=dark" />
+</p>
 
 <br/>
 
 ### 📊 Performance & Insights
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arkalibaig&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=arkalibaig&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkalibaig&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Languages" />
 </p>
 
@@ -37,6 +39,4 @@ Always exploring new ways to optimize models and enhance data-driven decision-ma
 
 <img src="https://komarev.com/ghpvc/?username=arkalibaig&label=PROFILE+VIEWS&color=00d4ff&style=flat-square" />
 
----
-*"The best way to predict the future is to invent it."*
 </div>
