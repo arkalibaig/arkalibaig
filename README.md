@@ -23,8 +23,8 @@ Always exploring new ways to optimize models and enhance data-driven decision-ma
 
 ### 📊 Performance & Insights
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arkalibaig&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkalibaig&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=arkalibaig&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkalibaig&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph"  />
 </p>
 
 <br/>
