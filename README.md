@@ -8,9 +8,10 @@
 <br/>
 
 ### About Me
-**Bridging the gap between raw data and intelligent automation.** <br/>
-I am a developer focused on building scalable solutions using **Python** and advanced **Machine Learning** frameworks. <br/> 
-Always exploring new ways to optimize models and enhance data-driven decision-making.
+Self-taught machine learning developer focused on building practical, end-to-end AI systems.
+I work primarily with Python and modern ML frameworks, handling everything from data preprocessing and model training to experimentation and deployment.
+
+I learn by building, breaking, and refining real projects—constantly improving model performance and understanding systems from the ground up.
 
 <br/>
 
