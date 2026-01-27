@@ -15,7 +15,7 @@ Always exploring new ways to optimize models and enhance data-driven decision-ma
 
 ### 🛠️ The Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,git,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,git,theme=dark" />
 </p>
 
 <br/>
