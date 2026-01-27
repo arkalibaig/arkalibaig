@@ -34,8 +34,7 @@ Always exploring new ways to optimize models and enhance data-driven decision-ma
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<br/>
-<br/>
+<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=arkalibaig&style=flat-square&color=blueviolet" alt="Profile Views"/>
 
 </div>
