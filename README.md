@@ -1,43 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Arkali%20Baig&fontSize=80&fontAlignY=35&desc=AI%20Systems%20%7C%20Machine%20Learning%20%7C%20Python&descAlignY=60&descAlign=50&animation=fadeIn&fontColor=ffffff" width="100%" />
+# 💎 Arkali Baig
+### AI Systems Engineer | Machine Learning Specialist | Python Developer
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building_End--to--End_Systems-0D1117?style=for-the-badge&logo=curseforge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Specialization-Computer_Vision-0D1117?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+---
+
+### 👨‍💻 Engineering Philosophy
+> "I learn by building, breaking, and refining."
+
+Focused on the full AI lifecycle—from raw data preprocessing and architectural design to high-performance deployment. I specialize in bridging the gap between research-grade Python and production-ready systems.
 
 <br/>
 
-### 👨‍💻 About Me
-I am a self-taught **Machine Learning Developer** focused on building practical, end-to-end AI systems. I handle the full lifecycle—from data preprocessing and model training to experimentation and deployment.
-
-I learn by building, breaking, and refining real projects, constantly improving model performance and understanding systems from the ground up.
+### 🛠️ The Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,pytorch,cpp,git,linux,docker&theme=dark" />
+</p>
 
 <br/>
 
-### 🏔️ Featured Project: Hunza Climate Analysis
+### 🏔️ Featured Research: Hunza Climate Analysis
 <a href="https://github.com/arkalibaig/hunza-climate-analysis">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkalibaig&repo=hunza-climate-analysis&theme=radical&show_owner=true" />
 </a>
 
 <br/>
-<br/>
 
-### 🛠️ The Stack
+### 📊 Performance Metrics
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,cpp,git&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arkalibaig&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkalibaig&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
 
-<br/>
+---
 
-### 📊 Performance & Insights
+### 📫 Connect With Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arkalibaig&show_icons=true&theme=radical&hide_border=true" height="170" alt="stats graph" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkalibaig&layout=compact&theme=radical&hide_border=true" height="170" alt="languages graph" />
-</p>
-
-<br/>
-
-### 🤝 Let's Collaborate
 <a href="mailto:arkalibaig@gmail.com">
-  <img src="https://img.shields.io/badge/email-arkalibaig%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://linkedin.com/in/arkalibaig">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 </div>
