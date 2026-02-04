@@ -5,13 +5,13 @@
 <br/>
 
 ### 👨‍💻 About Me
-I am a self-taught **Machine Learning Developer** focused on building end-to-end AI systems. I don't just train models; I build the full pipeline—from data preprocessing and training to deployment and interactive UIs.
+I am a self-taught **Machine Learning Developer** focused on building practical, end-to-end AI systems. I handle the full lifecycle—from data preprocessing and model training to experimentation and deployment.
 
-I learn by building, breaking, and refining real projects, constantly optimizing performance and understanding systems from the ground up.
+I learn by building, breaking, and refining real projects, constantly improving model performance and understanding systems from the ground up.
 
 <br/>
 
-### 🏔️ Featured Project
+### 🏔️ Featured Project: Hunza Climate Analysis
 <a href="https://github.com/arkalibaig/hunza-climate-analysis">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkalibaig&repo=hunza-climate-analysis&theme=radical&show_owner=true" />
 </a>
@@ -29,7 +29,7 @@ I learn by building, breaking, and refining real projects, constantly optimizing
 ### 📊 Performance & Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arkalibaig&show_icons=true&theme=radical&hide_border=true" height="170" alt="stats graph" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkalibaig&layout=compact&theme=radical&hide_border=true" height="170" alt="languages graph" />
 </p>
 
