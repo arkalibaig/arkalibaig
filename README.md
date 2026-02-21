@@ -4,44 +4,34 @@
 
 ---
 
-### 🚀 Engineering Intelligence
-**Self-taught Machine Learning Developer** dedicated to architecting end-to-end AI systems. 
-I specialize in the full lifecycle of ML—from raw data ingestion and model training to rigorous experimentation and production deployment. 
-
-*I don't just import libraries; I build, break, and refine systems until they perform.*
+### 🧠 Architecting Intelligence
+**Self-taught Machine Learning Developer focused on building practical, end-to-end AI systems.** I don't just train models; I build complete systems. Working primarily with Python and modern ML frameworks, I handle the full lifecycle—from raw data preprocessing and model experimentation all the way to deployment. My philosophy is simple: I learn by building, breaking, and refining real-world projects from the ground up.
 
 ---
 
-### 🛠️ The Stack
+### 🚀 Featured Project
+**[Hunza Climate Analysis](https://github.com/arkalibaig/hunza-climate-analysis)**
+> An end-to-end analytical project exploring regional data through machine learning. Check out the repository to see my hands-on approach to data processing, model training, and extracting actionable insights.
+
+---
+
+### ⚙️ The Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,cpp,git,linux,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,cpp,git&theme=dark" />
 </p>
 
 ---
 
-### 🧪 Featured Project
-**[Hunza Climate Analysis](https://github.com/arkalibaig/hunza-climate-analysis)**
-> An end-to-end analytical engine exploring regional climate shifts through machine learning.
-> **Key Focus:** Data preprocessing pipelines, time-series forecasting, and performance optimization.
-
----
-
-### 📊 Vital Signs
+### 📊 Performance & Insights
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arkalibaig&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkalibaig&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=arkalibaig&show_icons=true&theme=radical&hide_border=true" height="160" alt="Arkali's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkalibaig&layout=compact&theme=radical&hide_border=true" height="160" alt="Arkali's Top Languages" />
 </p>
 
 ---
 
 ### 🤝 Let's Collaborate
-Looking for an engineer who thrives in the intersection of data and deployment? Let’s talk.
+Always open to discussing AI architecture, new projects, or potential roles. Let's build something cool.
 
 <a href="mailto:arkalibaig@gmail.com">
-  <img src="https://img.shields.io/badge/email-arkalibaig%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
+  <img src="
