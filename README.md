@@ -5,7 +5,7 @@
 ---
 
 ### About Me
-**Self-taught Machine Learning Developer focused on building practical, end-to-end AI systems.** I don't just train models; I build complete systems. Working primarily with Python and modern ML frameworks, I handle the full lifecycle—from raw data preprocessing and model experimentation all the way to deployment. My philosophy is simple: I learn by building, breaking, and refining real-world projects, constantly improving model performance and understanding systems from the ground up.
+**Self-taught Machine Learning Developer focused on building practical, end-to-end AI systems.** 
 
 
 
@@ -18,13 +18,7 @@
 
 ---
 
-### Performance & Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arkalibaig&show_icons=true&theme=radical&hide_border=true" height="160" alt="Arkali's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkalibaig&layout=compact&theme=radical&hide_border=true" height="160" alt="Arkali's Top Languages" />
-</p>
 
----
 
 ### Let's Collaborate
 Always open to discussing AI architecture, new projects, or potential roles. Let's build something cool.
