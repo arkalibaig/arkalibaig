@@ -5,7 +5,6 @@
 > I build practical end-to-end AI systems and work on real-world data problems,
 > from raw API extraction to deployed models.
 >
-> Currently a BS-AI student at Szabist University Islamabad.
 
 ```
 Location  ->  Hunza, Gilgit-Baltistan, Pakistan
