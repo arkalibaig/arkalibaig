@@ -1,64 +1,43 @@
 # Arkali Baig
-### AI Systems | Machine Learning | Python
 
-> Self-taught Machine Learning Developer from Hunza, Gilgit-Baltistan, Pakistan.
-> I build practical end-to-end AI systems and work on real-world data problems,
-> from raw API extraction to deployed models.
->
+Self-taught machine learning developer from Hunza. I work on practical, end-to-end AI systems, mostly real-world data problems, from raw extraction to trained models.
 
-```
-Location  ->  Hunza, Gilgit-Baltistan, Pakistan
-Focus     ->  Deep Learning | Computer Vision | Local LLM Inference  
-Email     ->  arkalibaig@gmail.com
-```
+Hunza, Gilgit-Baltistan &nbsp;·&nbsp; arkalibaig@gmail.com
 
 ---
 
-### The Stack
+**Stack**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-8B4513?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-A0522D?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-B8763E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-6B4226?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-966F33?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-7B3F00?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-9C4A1A?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-4A3728?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 ---
 
-### Selected Projects
+**Projects**
 
-```
-[Karakoram-Trends]  ->  ERA5 bias-corrected climate analysis of Gilgit-Baltistan
-                        Corrected a 16x warming inflation caused by ECMWF 2016
-                        data discontinuity. 5 stations, 31 variables, 1990-2024.
-                        Dataset published on Kaggle under CC BY 4.0.
+[Karakoram-Trends](https://github.com/arkalibaig/Karakoram-Trends) — bias-corrected ERA5 climate dataset for Gilgit-Baltistan, 5 stations, 1990-2024. Corrected a warming trend that ECMWF's 2016 data discontinuity had inflated roughly 16x. Published on Kaggle under CC BY 4.0.
 
-[digit_recognition] ->  CNN trained on MNIST with live Gradio interface.
-                        Real-time handwritten digit classification.
+[Extreme-Weather-Prediction](https://github.com/arkalibaig/Extreme-Weather-Prediction) — extreme precipitation classifier built on the dataset above. Caught a leakage bug along the way, moved to a time-based split, compared a neural net against a Random Forest baseline. First end-to-end GPU training run.
 
-[mobile-llm]        ->  Local LLM inference accessible from phone over Wi-Fi.
-                        Built with Ollama and Streamlit. Privacy-first.
-```
+[mobile-llm-inference](https://github.com/arkalibaig/mobile-llm-inference) — local LLM inference over Wi-Fi from a phone, built with Ollama and Streamlit.
 
-**[Karakoram-Trends](https://github.com/arkalibaig/Karakoram-Trends)** | **[digit_recognition_cnn](https://github.com/arkalibaig/digit_recognition_cnn)** | **[mobile-llm-inference](https://github.com/arkalibaig/mobile-llm-inference)**
+[digit_recognition_cnn](https://github.com/arkalibaig/digit_recognition_cnn) — CNN on MNIST with a live Gradio interface. Early project.
 
 ---
-
-### Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arkali-baig-170ba925a/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-6B4226?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://kaggle.com/arkalibaig" target="blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kaggle-8B4513?style=flat-square&logo=kaggle&logoColor=white" />
   </a>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arkalibaig&color=58a6ff&style=flat-square" />
 </p>
