@@ -19,19 +19,7 @@ Hunza, Gilgit-Baltistan &nbsp;·&nbsp; arkalibaig@gmail.com
   <img src="https://img.shields.io/badge/Linux-4A3728?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
----
 
-**Projects**
-
-[Karakoram-Trends](https://github.com/arkalibaig/Karakoram-Trends) — bias-corrected ERA5 climate dataset for Gilgit-Baltistan, 5 stations, 1990-2024. Corrected a warming trend that ECMWF's 2016 data discontinuity had inflated roughly 16x. Published on Kaggle under CC BY 4.0.
-
-[Extreme-Weather-Prediction](https://github.com/arkalibaig/Extreme-Weather-Prediction) — extreme precipitation classifier built on the dataset above. Caught a leakage bug along the way, moved to a time-based split, compared a neural net against a Random Forest baseline. First end-to-end GPU training run.
-
-[mobile-llm-inference](https://github.com/arkalibaig/mobile-llm-inference) — local LLM inference over Wi-Fi from a phone, built with Ollama and Streamlit.
-
-[8086-asm-grader](https://github.com/arkalibaig/8086-asm-grader) — student marks grader for 8086 assembly submissions.
-
----
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arkali-baig-170ba925a/" target="blank">
