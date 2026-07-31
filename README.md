@@ -29,7 +29,7 @@ Hunza, Gilgit-Baltistan &nbsp;·&nbsp; arkalibaig@gmail.com
 
 [mobile-llm-inference](https://github.com/arkalibaig/mobile-llm-inference) — local LLM inference over Wi-Fi from a phone, built with Ollama and Streamlit.
 
-[digit_recognition_cnn](https://github.com/arkalibaig/digit_recognition_cnn) — CNN on MNIST with a live Gradio interface. Early project.
+[8086-asm-grader](https://github.com/arkalibaig/8086-asm-grader) — student marks grader for 8086 assembly submissions.
 
 ---
 
