@@ -29,3 +29,6 @@ Hunza, Gilgit-Baltistan &nbsp;·&nbsp; arkalibaig@gmail.com
     <img src="https://img.shields.io/badge/Kaggle-8B4513?style=flat-square&logo=kaggle&logoColor=white" />
   </a>
 </p>
+
+<!-- STATS:START -->
+<!-- STATS:END -->
